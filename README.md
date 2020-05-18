@@ -1,5 +1,6 @@
 # ![Feature graphic](fastlane/metadata/android/en-US/images/featureGraphic.png)
 
+
 [![Build Status](https://travis-ci.com/ashutoshgngwr/noice.svg?branch=master)](https://travis-ci.com/ashutoshgngwr/noice)
 [![codecov](https://codecov.io/gh/ashutoshgngwr/noice/branch/master/graph/badge.svg)](https://codecov.io/gh/ashutoshgngwr/noice)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/67635a43989c4dbcb6c3472375dc1e5f)](https://www.codacy.com/manual/ashutoshgngwr/noice?utm_source=github.com&utm_medium=referral&utm_content=ashutoshgngwr/noice&utm_campaign=Badge_Grade)
